@@ -1,0 +1,20 @@
+body{
+    margin: 20px;
+    background-color: #F28705;
+}
+div {
+    margin-top: 20px;
+    color: #8C031C;
+    font-size: 100px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 200px);
+    grid-template-rows: repeat(2, 100px);
+    gap: 100px;
+}
+.grid-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

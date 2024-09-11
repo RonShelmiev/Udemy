@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://i0.wp.com/tdalabamamag.com/wp-content/uploads/2017/12/IMG_20171217_150357.jpg?fit=1000%2C656&ssl=1");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
